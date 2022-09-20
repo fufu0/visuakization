@@ -127,6 +127,7 @@
 .sales h4 {
   color: #fff;
   height: 0.225rem;
+  font-size: 0.225rem;
   padding-right: 0.225rem;
   border-right: 0.025rem solid #00f2f1;
 }
